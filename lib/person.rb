@@ -3,4 +3,5 @@ class Person
     @name = name
   end
   
-  def attr_accessor :name
+  def attr_accessor :name 
+    
